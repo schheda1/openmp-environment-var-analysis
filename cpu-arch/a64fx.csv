@@ -1,0 +1,2 @@
+total_cores,cores_per_numa,sockets,numa_nodes,clock_speed,turbo_clock,l1_cache,l2_cache,l3_cache,memory_type,memory_size,memory_bandwidth
+48,12,4,4,1.8,1.8,0.085,0.915,0,1,0.03125,1
