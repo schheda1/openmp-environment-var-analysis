@@ -3,7 +3,7 @@ This repository contains the cleaned, processed and aggregated data used in the 
 
 File names follow the follwing convention: 
 ```
-<cpu-architecture>-<benchmark-name>-<input-size OR thread count with default inputs>-agg.csv
+<cpu-architecture>-<benchmark-name>-<input-size-with-max-threads OR thread-count-with-default-inputs>-agg.csv
 ```
 
 If you use the data in this repository, please consider citing our work:
